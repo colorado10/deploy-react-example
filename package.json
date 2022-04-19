@@ -1,8 +1,8 @@
 {
-  "name": "tutorial-react",
+  "name": "react-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/colorado10/RepositorioPrueba.git",
+  "homepage": "https:",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.0.1",
