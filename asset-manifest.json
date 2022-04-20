@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-react-example/static/css/main.07e274de.css",
+    "main.js": "/deploy-react-example/static/js/main.aa1077e4.js",
+    "index.html": "/deploy-react-example/index.html",
+    "main.07e274de.css.map": "/deploy-react-example/static/css/main.07e274de.css.map",
+    "main.aa1077e4.js.map": "/deploy-react-example/static/js/main.aa1077e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e274de.css",
+    "static/js/main.aa1077e4.js"
+  ]
+}
